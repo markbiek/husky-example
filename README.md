@@ -10,7 +10,7 @@ This setup borrows heavily from [Easy git hooks with Husky](https://www.vojtechr
 
 ## Install packages
 
-This setup requires the following packages:
+This setup requires adding the following packages to your project:
 * husky
 * lint-staged
 * eslint
